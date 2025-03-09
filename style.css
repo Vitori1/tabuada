@@ -15,8 +15,8 @@ body {
   section {
     background-color: rgb(48, 48, 48);
     color: rgb(239, 235, 228);
-    padding: 10px;
-    border-radius: 20px;
+    padding: .7rem;
+    border-radius: 1.2rem;
     width: 50%;
     margin: auto;
   }
@@ -24,16 +24,17 @@ body {
   #botao {
     background-color: rgb(12, 112, 242);
     color: rgb(239, 235, 228);
-    border: 0px;
-    width: 150px;
-    height: 30px;
-    border-radius: 10px;
+    border: 0;
+    width: 9.3rem;
+    height: 2rem;
+    border-radius: .7rem;
+    font-size: 1rem;
   }
 
   .form {
-    margin: 8px;
-    border-radius: 10px;
+    margin: .5rem;
+    border-radius: .7rem;
     border-style: none;
-    height: 20px;
-    width: 200px;
+    height: 1.2rem;
+    width: 12rem;
 }
